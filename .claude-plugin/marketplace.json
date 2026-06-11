@@ -1,0 +1,20 @@
+{
+  "name": "polymorph-mindset-plugins",
+  "owner": {
+    "name": "Marina Santos Haugen",
+    "email": "marina@kodemaker.no"
+  },
+  "description": "Custom Claude Code skills from Marina Santos Haugen's 'Polymorph Mindset' / NDC AI talk. Read them for the shape, or install to try.",
+  "plugins": [
+    {
+      "name": "polymorph-mindset",
+      "source": "./plugins/polymorph-mindset",
+      "description": "Six real custom skills demonstrating how to encode team workflows as Claude Code skills.",
+      "author": { "name": "Marina Santos Haugen" },
+      "homepage": "https://github.com/marinahaugen/polymorph-mindset-plugins",
+      "license": "MIT",
+      "keywords": ["skills", "code-review", "agentic", "workflow", "git"],
+      "category": "productivity"
+    }
+  ]
+}

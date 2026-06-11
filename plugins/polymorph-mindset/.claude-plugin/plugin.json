@@ -1,0 +1,11 @@
+{
+  "name": "polymorph-mindset",
+  "description": "Six real custom skills — read for the shape, fork & adapt for your own work. From Marina Santos Haugen's Polymorph Mindset / NDC AI talk.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marina Santos Haugen",
+    "email": "marina@kodemaker.no"
+  },
+  "homepage": "https://github.com/marinahaugen/polymorph-mindset-plugins",
+  "license": "MIT"
+}

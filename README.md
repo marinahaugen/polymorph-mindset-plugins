@@ -32,4 +32,4 @@ Skills then run namespaced, e.g. `/polymorph-mindset:design-first-collaboration`
 
 ## What these are NOT
 
-They aren't auto-loaded, and they aren't generic templates. They're snapshots of skills I built because I needed them. Copy one, strip out what's specific to me, and make it yours.
+They aren't auto-loaded, and they aren't generic templates. They're snapshots of skills I built because I needed them. Copy one and adapt it to your own workflow.
